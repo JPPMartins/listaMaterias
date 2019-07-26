@@ -1,0 +1,7 @@
+C:\Users\João Paulo\Desktop\Concurso Faepa - Analista de Sistemas\Projetos Treinos\SchoolSystem\SchoolSystem\Model\bin\Debug\Model.dll.config
+C:\Users\João Paulo\Desktop\Concurso Faepa - Analista de Sistemas\Projetos Treinos\SchoolSystem\SchoolSystem\Model\bin\Debug\Model.dll
+C:\Users\João Paulo\Desktop\Concurso Faepa - Analista de Sistemas\Projetos Treinos\SchoolSystem\SchoolSystem\Model\bin\Debug\Model.pdb
+C:\Users\João Paulo\Desktop\Concurso Faepa - Analista de Sistemas\Projetos Treinos\SchoolSystem\SchoolSystem\Model\obj\Debug\Model.csprojAssemblyReference.cache
+C:\Users\João Paulo\Desktop\Concurso Faepa - Analista de Sistemas\Projetos Treinos\SchoolSystem\SchoolSystem\Model\obj\Debug\Model.csproj.CoreCompileInputs.cache
+C:\Users\João Paulo\Desktop\Concurso Faepa - Analista de Sistemas\Projetos Treinos\SchoolSystem\SchoolSystem\Model\obj\Debug\Model.dll
+C:\Users\João Paulo\Desktop\Concurso Faepa - Analista de Sistemas\Projetos Treinos\SchoolSystem\SchoolSystem\Model\obj\Debug\Model.pdb
