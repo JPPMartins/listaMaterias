@@ -13,13 +13,21 @@ namespace SchoolSystem
         private ModelDataContext mdc;
         protected void Page_Load(object sender, EventArgs e)
         {
-
+            if (!IsPostBack)
+            {
+                this.GetGrid();
+            }
         }
-        private void GetGrid(id)
+        private void GetGrid()
         {
+            mdc = new ModelDataContext();
             try
             {
+                var sourceMateria = from mat in mdc.Materia
+                                    select mat;
 
+                gwDados.DataSource = sourceMateria;
+                gwDados.DataBind();
             }
             catch (Exception)
             {

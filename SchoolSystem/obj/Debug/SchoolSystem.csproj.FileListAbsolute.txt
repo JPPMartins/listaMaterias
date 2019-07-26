@@ -14,3 +14,14 @@ C:\Users\João Paulo\Desktop\Concurso Faepa - Analista de Sistemas\Projetos Trei
 C:\Users\João Paulo\Desktop\Concurso Faepa - Analista de Sistemas\Projetos Treinos\SchoolSystem\SchoolSystem\SchoolSystem\bin\Model.pdb
 C:\Users\João Paulo\Desktop\Concurso Faepa - Analista de Sistemas\Projetos Treinos\SchoolSystem\SchoolSystem\SchoolSystem\bin\Model.dll.config
 C:\Users\João Paulo\Desktop\Concurso Faepa - Analista de Sistemas\Projetos Treinos\SchoolSystem\SchoolSystem\SchoolSystem\obj\Debug\SchoolSystem.csproj.CopyComplete
+C:\Users\João Paulo\Desktop\Concurso Faepa - Analista de Sistemas\Projetos Treinos\SchoolSystem\SchoolSystem\listaMaterias\SchoolSystem\bin\SchoolSystem.dll.config
+C:\Users\João Paulo\Desktop\Concurso Faepa - Analista de Sistemas\Projetos Treinos\SchoolSystem\SchoolSystem\listaMaterias\SchoolSystem\bin\SchoolSystem.dll
+C:\Users\João Paulo\Desktop\Concurso Faepa - Analista de Sistemas\Projetos Treinos\SchoolSystem\SchoolSystem\listaMaterias\SchoolSystem\bin\SchoolSystem.pdb
+C:\Users\João Paulo\Desktop\Concurso Faepa - Analista de Sistemas\Projetos Treinos\SchoolSystem\SchoolSystem\listaMaterias\SchoolSystem\bin\Model.dll
+C:\Users\João Paulo\Desktop\Concurso Faepa - Analista de Sistemas\Projetos Treinos\SchoolSystem\SchoolSystem\listaMaterias\SchoolSystem\bin\Model.pdb
+C:\Users\João Paulo\Desktop\Concurso Faepa - Analista de Sistemas\Projetos Treinos\SchoolSystem\SchoolSystem\listaMaterias\SchoolSystem\bin\Model.dll.config
+C:\Users\João Paulo\Desktop\Concurso Faepa - Analista de Sistemas\Projetos Treinos\SchoolSystem\SchoolSystem\listaMaterias\SchoolSystem\obj\Debug\SchoolSystem.csprojAssemblyReference.cache
+C:\Users\João Paulo\Desktop\Concurso Faepa - Analista de Sistemas\Projetos Treinos\SchoolSystem\SchoolSystem\listaMaterias\SchoolSystem\obj\Debug\SchoolSystem.csproj.CoreCompileInputs.cache
+C:\Users\João Paulo\Desktop\Concurso Faepa - Analista de Sistemas\Projetos Treinos\SchoolSystem\SchoolSystem\listaMaterias\SchoolSystem\obj\Debug\SchoolSystem.csproj.CopyComplete
+C:\Users\João Paulo\Desktop\Concurso Faepa - Analista de Sistemas\Projetos Treinos\SchoolSystem\SchoolSystem\listaMaterias\SchoolSystem\obj\Debug\SchoolSystem.dll
+C:\Users\João Paulo\Desktop\Concurso Faepa - Analista de Sistemas\Projetos Treinos\SchoolSystem\SchoolSystem\listaMaterias\SchoolSystem\obj\Debug\SchoolSystem.pdb

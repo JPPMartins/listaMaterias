@@ -10,43 +10,16 @@
 namespace SchoolSystem {
     
     
-    public partial class Default {
+    public partial class Materia_Edit {
         
         /// <summary>
-        /// Controle pnlShowData.
+        /// Controle pnlUpdate.
         /// </summary>
         /// <remarks>
         /// Campo gerado automaticamente.
         /// Modificar a declaração do campo de movimento do arquivo de designer para o arquivo code-behind.
         /// </remarks>
-        protected global::System.Web.UI.WebControls.Panel pnlShowData;
-        
-        /// <summary>
-        /// Controle gwDados.
-        /// </summary>
-        /// <remarks>
-        /// Campo gerado automaticamente.
-        /// Modificar a declaração do campo de movimento do arquivo de designer para o arquivo code-behind.
-        /// </remarks>
-        protected global::System.Web.UI.WebControls.GridView gwDados;
-        
-        /// <summary>
-        /// Controle pnlSearch.
-        /// </summary>
-        /// <remarks>
-        /// Campo gerado automaticamente.
-        /// Modificar a declaração do campo de movimento do arquivo de designer para o arquivo code-behind.
-        /// </remarks>
-        protected global::System.Web.UI.WebControls.Panel pnlSearch;
-        
-        /// <summary>
-        /// Controle rlbTypeSearch.
-        /// </summary>
-        /// <remarks>
-        /// Campo gerado automaticamente.
-        /// Modificar a declaração do campo de movimento do arquivo de designer para o arquivo code-behind.
-        /// </remarks>
-        protected global::System.Web.UI.WebControls.RadioButtonList rlbTypeSearch;
+        protected global::System.Web.UI.WebControls.Panel pnlUpdate;
         
         /// <summary>
         /// Controle label1.
@@ -58,57 +31,57 @@ namespace SchoolSystem {
         protected global::System.Web.UI.WebControls.Label label1;
         
         /// <summary>
-        /// Controle tbPesqId.
+        /// Controle tbCodMateria.
         /// </summary>
         /// <remarks>
         /// Campo gerado automaticamente.
         /// Modificar a declaração do campo de movimento do arquivo de designer para o arquivo code-behind.
         /// </remarks>
-        protected global::System.Web.UI.WebControls.TextBox tbPesqId;
+        protected global::System.Web.UI.WebControls.TextBox tbCodMateria;
         
         /// <summary>
-        /// Controle label9.
+        /// Controle Label2.
         /// </summary>
         /// <remarks>
         /// Campo gerado automaticamente.
         /// Modificar a declaração do campo de movimento do arquivo de designer para o arquivo code-behind.
         /// </remarks>
-        protected global::System.Web.UI.WebControls.Label label9;
+        protected global::System.Web.UI.WebControls.Label Label2;
         
         /// <summary>
-        /// Controle tbPesqNome.
+        /// Controle tbNome.
         /// </summary>
         /// <remarks>
         /// Campo gerado automaticamente.
         /// Modificar a declaração do campo de movimento do arquivo de designer para o arquivo code-behind.
         /// </remarks>
-        protected global::System.Web.UI.WebControls.TextBox tbPesqNome;
+        protected global::System.Web.UI.WebControls.TextBox tbNome;
         
         /// <summary>
-        /// Controle Label10.
+        /// Controle Label3.
         /// </summary>
         /// <remarks>
         /// Campo gerado automaticamente.
         /// Modificar a declaração do campo de movimento do arquivo de designer para o arquivo code-behind.
         /// </remarks>
-        protected global::System.Web.UI.WebControls.Label Label10;
+        protected global::System.Web.UI.WebControls.Label Label3;
         
         /// <summary>
-        /// Controle tbPesqDescricao.
+        /// Controle tbDescriao.
         /// </summary>
         /// <remarks>
         /// Campo gerado automaticamente.
         /// Modificar a declaração do campo de movimento do arquivo de designer para o arquivo code-behind.
         /// </remarks>
-        protected global::System.Web.UI.WebControls.TextBox tbPesqDescricao;
+        protected global::System.Web.UI.WebControls.TextBox tbDescriao;
         
         /// <summary>
-        /// Controle btnSearch.
+        /// Controle BtnAtualizar.
         /// </summary>
         /// <remarks>
         /// Campo gerado automaticamente.
         /// Modificar a declaração do campo de movimento do arquivo de designer para o arquivo code-behind.
         /// </remarks>
-        protected global::System.Web.UI.WebControls.Button btnSearch;
+        protected global::System.Web.UI.WebControls.Button BtnAtualizar;
     }
 }

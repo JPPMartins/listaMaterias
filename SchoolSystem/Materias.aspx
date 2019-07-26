@@ -7,7 +7,15 @@
 
     <asp:Panel runat="server" ID="pnlShowData" Visible="true">
         <h1>Todas as Matérias Cadastradas</h1>
-        <asp:GridView ID="gwDados" runat="server" EmptyDataText="Não Existem Matérias Cadastradas..."></asp:GridView>
+        <asp:GridView ID="gwDados" CssClass="table" runat="server" EmptyDataText="Não Existem Matérias Cadastradas..." AutoGenerateColumns="False">
+            <Columns>
+                <asp:BoundField DataField="idMateria" HeaderText="Código" />
+                <asp:BoundField DataField="nome" HeaderText="Nome" />
+                <asp:BoundField DataField="descricao" HeaderText="Descrição" />
+                <asp:BoundField DataField="dataCadastro" HeaderText="Data de Cadastro" />
+                <asp:HyperLinkField DataNavigateUrlFormatString="Materia_Edit.aspx?id={0}" Text="Editar" DataNavigateUrlFields="idMateria" HeaderText="Editar" />
+            </Columns>
+        </asp:GridView>
     </asp:Panel>
 
     <asp:Panel runat="server" ID="pnlSearch" Visible="true">
@@ -36,27 +44,6 @@
             </li>
             <li>
                <asp:Button ID="btnSearch" CssClass="btn btnSearch" runat="server" Text="Pesquisar" />
-            </li>
-        </ul>
-    </asp:Panel>
-
-    <asp:Panel runat="server" ID="pnlUpdate" Visible="true">
-        <h1>Atualizar Matérias</h1>
-        <ul>
-            <li>
-                <asp:Label ID="Label6" runat="server" Text="Cód. Matéria"></asp:Label>
-                <asp:TextBox ID="tbCodMateria" Text="2013" Enabled="false" CssClass="radiusInput disable" runat="server"></asp:TextBox>
-            </li>
-            <li>
-                <asp:Label Text="Nome" ID="label4" runat="server"></asp:Label>
-                <asp:TextBox ID="TextBox1" Text="" CssClass="radiusInput" runat="server"></asp:TextBox>
-            </li>
-            <li>
-                <asp:Label ID="Label5" runat="server" Text="Descrição"></asp:Label>
-                <asp:TextBox ID="TextBox2" CssClass="radiusInput" runat="server"></asp:TextBox>
-            </li>
-            <li>
-                <asp:Button ID="bntAtualizar" CssClass="btn btnEdit" runat="server" Text="Atualizar" />
             </li>
         </ul>
     </asp:Panel>

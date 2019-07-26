@@ -48,7 +48,7 @@
                         <ul class="itens">
                             <li><a href="Materia_Add.aspx" title="Cadastrar nova Matéria">Cadastrar nova Matéria</a></li>
                             <li><a href="#" title="Editar Matéria">Editar Matéria</a></li>
-                            <li><a href="#" title="Pesaquisar Matérias">Pesaquisar Matérias</a></li>
+                            <li><a href="Materias.aspx" title="Pesquisar Matérias">Pesquisar Matérias</a></li>
                         </ul>
                     </li>
               
