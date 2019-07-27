@@ -14,6 +14,7 @@
                 <asp:BoundField DataField="descricao" HeaderText="Descrição" />
                 <asp:BoundField DataField="dataCadastro" HeaderText="Data de Cadastro" />
                 <asp:HyperLinkField DataNavigateUrlFormatString="Materia_Edit.aspx?id={0}" Text="Editar" DataNavigateUrlFields="idMateria" HeaderText="Editar" />
+                <asp:HyperLinkField DataNavigateUrlFormatString="Materias_Excluir.aspx?id={0}" Text="Excluir" DataNavigateUrlFields="idMateria" HeaderText="Excluir" />
             </Columns>
         </asp:GridView>
     </asp:Panel>
@@ -43,7 +44,10 @@
                 <asp:TextBox ID="tbPesqDescricao" CssClass="radiusInput" runat="server"></asp:TextBox>
             </li>
             <li>
-               <asp:Button ID="btnSearch" CssClass="btn btnSearch" runat="server" Text="Pesquisar" />
+               <asp:Button ID="btnSearch" CssClass="btn btnSearch" runat="server" Text="Pesquisar" OnClick="BtnSearch_Click" />
+               </li>
+                <li> 
+                <asp:Button ID="btnSearchErase" CssClass="btn btnSearch" runat="server" Text="Limpar" OnClick="BtnSearchErase_Click" />
             </li>
         </ul>
     </asp:Panel>

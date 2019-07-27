@@ -10,43 +10,34 @@
 namespace SchoolSystem {
     
     
-    public partial class Default {
+    public partial class Materias_Excluir {
         
         /// <summary>
-        /// Controle pnlShowData.
+        /// Controle pnlExcluir.
         /// </summary>
         /// <remarks>
         /// Campo gerado automaticamente.
         /// Modificar a declaração do campo de movimento do arquivo de designer para o arquivo code-behind.
         /// </remarks>
-        protected global::System.Web.UI.WebControls.Panel pnlShowData;
+        protected global::System.Web.UI.WebControls.Panel pnlExcluir;
         
         /// <summary>
-        /// Controle gwDados.
+        /// Controle label3.
         /// </summary>
         /// <remarks>
         /// Campo gerado automaticamente.
         /// Modificar a declaração do campo de movimento do arquivo de designer para o arquivo code-behind.
         /// </remarks>
-        protected global::System.Web.UI.WebControls.GridView gwDados;
+        protected global::System.Web.UI.WebControls.Label label3;
         
         /// <summary>
-        /// Controle pnlSearch.
+        /// Controle tbCodigo.
         /// </summary>
         /// <remarks>
         /// Campo gerado automaticamente.
         /// Modificar a declaração do campo de movimento do arquivo de designer para o arquivo code-behind.
         /// </remarks>
-        protected global::System.Web.UI.WebControls.Panel pnlSearch;
-        
-        /// <summary>
-        /// Controle rlbTypeSearch.
-        /// </summary>
-        /// <remarks>
-        /// Campo gerado automaticamente.
-        /// Modificar a declaração do campo de movimento do arquivo de designer para o arquivo code-behind.
-        /// </remarks>
-        protected global::System.Web.UI.WebControls.RadioButtonList rlbTypeSearch;
+        protected global::System.Web.UI.WebControls.TextBox tbCodigo;
         
         /// <summary>
         /// Controle label1.
@@ -58,66 +49,39 @@ namespace SchoolSystem {
         protected global::System.Web.UI.WebControls.Label label1;
         
         /// <summary>
-        /// Controle tbPesqId.
+        /// Controle tbNome.
         /// </summary>
         /// <remarks>
         /// Campo gerado automaticamente.
         /// Modificar a declaração do campo de movimento do arquivo de designer para o arquivo code-behind.
         /// </remarks>
-        protected global::System.Web.UI.WebControls.TextBox tbPesqId;
+        protected global::System.Web.UI.WebControls.TextBox tbNome;
         
         /// <summary>
-        /// Controle label9.
+        /// Controle Label2.
         /// </summary>
         /// <remarks>
         /// Campo gerado automaticamente.
         /// Modificar a declaração do campo de movimento do arquivo de designer para o arquivo code-behind.
         /// </remarks>
-        protected global::System.Web.UI.WebControls.Label label9;
+        protected global::System.Web.UI.WebControls.Label Label2;
         
         /// <summary>
-        /// Controle tbPesqNome.
+        /// Controle tbDescriao.
         /// </summary>
         /// <remarks>
         /// Campo gerado automaticamente.
         /// Modificar a declaração do campo de movimento do arquivo de designer para o arquivo code-behind.
         /// </remarks>
-        protected global::System.Web.UI.WebControls.TextBox tbPesqNome;
+        protected global::System.Web.UI.WebControls.TextBox tbDescriao;
         
         /// <summary>
-        /// Controle Label10.
+        /// Controle btnExcluir.
         /// </summary>
         /// <remarks>
         /// Campo gerado automaticamente.
         /// Modificar a declaração do campo de movimento do arquivo de designer para o arquivo code-behind.
         /// </remarks>
-        protected global::System.Web.UI.WebControls.Label Label10;
-        
-        /// <summary>
-        /// Controle tbPesqDescricao.
-        /// </summary>
-        /// <remarks>
-        /// Campo gerado automaticamente.
-        /// Modificar a declaração do campo de movimento do arquivo de designer para o arquivo code-behind.
-        /// </remarks>
-        protected global::System.Web.UI.WebControls.TextBox tbPesqDescricao;
-        
-        /// <summary>
-        /// Controle btnSearch.
-        /// </summary>
-        /// <remarks>
-        /// Campo gerado automaticamente.
-        /// Modificar a declaração do campo de movimento do arquivo de designer para o arquivo code-behind.
-        /// </remarks>
-        protected global::System.Web.UI.WebControls.Button btnSearch;
-        
-        /// <summary>
-        /// Controle btnSearchErase.
-        /// </summary>
-        /// <remarks>
-        /// Campo gerado automaticamente.
-        /// Modificar a declaração do campo de movimento do arquivo de designer para o arquivo code-behind.
-        /// </remarks>
-        protected global::System.Web.UI.WebControls.Button btnSearchErase;
+        protected global::System.Web.UI.WebControls.Button btnExcluir;
     }
 }
